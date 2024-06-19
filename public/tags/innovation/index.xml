@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Innovation on Abir Arsalane</title>
+    <link>https://abirarsalane.github.io/tags/innovation/</link>
+    <description>Recent content in Innovation on Abir Arsalane</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://abirarsalane.github.io/tags/innovation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI connected medical insoles</title>
+      <link>https://abirarsalane.github.io/projects/sciatech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abirarsalane.github.io/projects/sciatech/</guid>
+      <description>I solved a problem that 600&#43; MILLION people suffer from using AI</description>
+    </item>
+    
+    <item>
+      <title>High-Level Forum on Artificial Intelligence</title>
+      <link>https://abirarsalane.github.io/blog/high-level-forum-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abirarsalane.github.io/blog/high-level-forum-ai/</guid>
+      <description>I participated in the First and Biggest High-Level Forum On Artifial Intelligence</description>
+    </item>
+    
+    <item>
+      <title>I solved a problem that 600&#43; MILLION people suffer from using AI </title>
+      <link>https://abirarsalane.github.io/blog/osc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abirarsalane.github.io/blog/osc/</guid>
+      <description>I won 3rd Place at Orange Summer Challenge AiOT with an innovative AI project</description>
+    </item>
+    
+    <item>
+      <title>Cloud Data Scientist and AI Engineer Intern</title>
+      <link>https://abirarsalane.github.io/experience/odc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abirarsalane.github.io/experience/odc/</guid>
+      <description>Orange Digital Center</description>
+    </item>
+    
+  </channel>
+</rss>
