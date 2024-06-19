@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Deep Learning on Abir Arsalane</title>
+    <link>https://abirarsalane.github.io/tags/deep-learning/</link>
+    <description>Recent content in Deep Learning on Abir Arsalane</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://abirarsalane.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI-Powered Early Detection and Diagnosis of Ductal Carcinoma In Situ (DCIS)</title>
+      <link>https://abirarsalane.github.io/blog/dcis-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abirarsalane.github.io/blog/dcis-project/</guid>
+      <description>AI For Early Detection and Diagnosis of Ductal Carcinoma In Situ (DCIS)</description>
+    </item>
+    
+  </channel>
+</rss>
