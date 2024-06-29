@@ -15,7 +15,7 @@ The project  Scia-Tech is a project combining the power of two powerful technolo
 
 ![](/personal-website/projects/SciaTech/SciaTech%20DEMO.mp4)
 <video width="700" height="300" controls>
-  <source src="/personal-website/projects/SciaTech/SciaTech DEMO.mp4" type="video/mp4">
+  <source src="/personal-website/projects/SciaTech/SciaTech-DEMO.mp4" type="video/mp4">
 </video>
 
 # Deeper dive
