@@ -6,7 +6,7 @@ draft: false
 tags: ["AI", "IOT", "AWS", "AWS", "EY", "Innovation", "Python", "Challenge", "ML", "DL", "Recommendations System", "models"]
 weight: 101
 cover:
-    image: "/personal-website/projects/SciaTech/SciaTech-logo.jpg"
+    image: "/personal-website/projects/SciaTech/Sciatech-logo.jpg"
 ---
 
 
