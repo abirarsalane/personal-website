@@ -10,10 +10,10 @@ weight: 301
 # Description
 I have participated in many events, competitions, hackathons, etc. Here are some of the most important ones.
 
-- **Alumnus of Mathematics Olympiads**
+- **Alumna of Mathematics Olympiads**
     - Been a mathematics olympiads participant for 5 years, from middle school to high school, while being a national winner in middle school.
     - Attended mentorship sessions and trainings from previous international finalists and Ecole Polytechnique (X) students.
-- **Alumnus of Informatics Olympiads**
+- **Alumna of Informatics Olympiads**
     - Been an informatics olympiads participant for 3 years, while being ranked 1st in my school and 9th in the country in the Castor contest.
 - **International Youth Math Challenge participant**
 - **Spelling Bee Regional Winner**
