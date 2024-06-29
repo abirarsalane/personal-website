@@ -6,7 +6,7 @@ draft: false
 tags: ["AI", "LLM", "Models", "Open Source", "Datasets"]
 weight: 100
 cover:
-    image: "/blog/atlasia/atlasia.png"
+    image: "/personal-website/blog/atlasia/atlasia.png"
 ---
 
 
