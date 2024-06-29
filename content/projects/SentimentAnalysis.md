@@ -6,7 +6,7 @@ draft: false
 tags: ["NLP", "M;", "Python", "Scrapping", "Models", "Training", "Topic Modeling", "Sentiment Analysis"]
 weight: 104
 cover:
-    image: "/projects/Sentiment-analysis/climatechange.png"
+    image: "/personal-website/projects/Sentiment-analysis/climatechange.png"
 ---
 
 
@@ -16,8 +16,8 @@ Have you ever thought of knowing what moroccan people in Morocco on social media
 # Results and process
 Read this first, it combines everything. If you have more time, you can scroll down for more details.
 
-![](/projects/Sentiment-analysis/sentiment-analysis1.png)
-![](/projects/Sentiment-analysis/sentiment-analysis2.png)
+![](/personal-website/projects/Sentiment-analysis/sentiment-analysis1.png)
+![](/personal-website/projects/Sentiment-analysis/sentiment-analysis2.png)
 
 # Challenges
 ## Scapping

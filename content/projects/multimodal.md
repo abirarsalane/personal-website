@@ -6,7 +6,7 @@ draft: false
 tags: ["LLM", "AI", "GenAI", "Hugging Face", "RAG", "Fine-tuning", "Python"]
 weight: 103
 cover:
-    image: "/projects/multimodal/multimodal.png"
+    image: "/personal-website/projects/multimodal/multimodal.png"
 ---
 
 # Introduction

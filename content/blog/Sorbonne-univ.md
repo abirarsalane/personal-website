@@ -6,7 +6,7 @@ draft: false
 tags: ["CS", "Sorbonne University", "University", "Student", "Paris"]
 weight: 106
 cover:
-    image: "/blog/Sorbonne-univ/cover.jpg"
+    image: "/personal-website/blog/Sorbonne-univ/cover.jpg"
 ---
 
 # Sorbonne University
@@ -23,6 +23,6 @@ This experience was enriching on so many levels. I had the chance to take very i
 
 All in all, it was an incredible experience and I'm so thankful to have had these opportunities.
 
-![](/blog/Sorbonne-univ/img2.jpg)
+![](/personal-website/blog/Sorbonne-univ/img2.jpg)
 
 I’m so thrilled and excited for what’s coming next!

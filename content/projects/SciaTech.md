@@ -6,16 +6,16 @@ draft: false
 tags: ["AI", "IOT", "AWS", "AWS", "EY", "Innovation", "Python", "Challenge", "ML", "DL", "Recommendations System", "models"]
 weight: 101
 cover:
-    image: "/projects/SciaTech/SciaTech-logo.jpg"
+    image: "/personal-website/projects/SciaTech/SciaTech-logo.jpg"
 ---
 
 
 # Introduction
 The project  Scia-Tech is a project combining the power of two powerful technologies: AI and IOT. Scia-Tech's smart insoles are designed to enhance the user's daily life. These smart insoles not only track your physical activities, but also offer a unique solution for individuals suffering from sciatica. By closely monitoring their walking patterns, sitting habits, heavy lifting, intense workouts, posture, and any movement. Scia-Tech aims to identify behaviors that may trigger sciatica pain, allowing you to take proactive steps to manage and mitigate discomfort. 
 
-![](/projects/SciaTech/SciaTech%20DEMO.mp4)
+![](/personal-website/projects/SciaTech/SciaTech%20DEMO.mp4)
 <video width="700" height="300" controls>
-  <source src="/projects/SciaTech/SciaTech DEMO.mp4" type="video/mp4">
+  <source src="/personal-website/projects/SciaTech/SciaTech DEMO.mp4" type="video/mp4">
 </video>
 
 # Deeper dive
@@ -41,7 +41,7 @@ Personalized recommendations mean the system learns from the user's unique data,
 When creating their account, the user enters the following information that we take into consideration when training the models.
 These inputs are: Age, Gender, Weight, Height.
 
-![](/projects/SciaTech/userflow.png)
+![](/personal-website/projects/SciaTech/userflow.png)
 
 **From the sensors:**
 The insoles are equipped with different sensors including: ESP32 microcontroller,FSR01 load cell and MPU6050 Sensor,
@@ -49,8 +49,8 @@ The insoles are equipped with different sensors including: ESP32 microcontroller
 - MPU: Sx, Sy, Sz, Qx, Qy, Qz, Ww, FPS (for each feet)
 - Pressure: P0, P1, P2, P3, P4 (for each feet)
 
-![](/projects/SciaTech/MPU.png)
-![](/projects/SciaTech/Pressure.jpg)
+![](/personal-website/projects/SciaTech/MPU.png)
+![](/personal-website/projects/SciaTech/Pressure.jpg)
 
 
 ## 2. How it works
@@ -63,7 +63,7 @@ This project required a lot of research, from domain research about sciatica, me
 ### The pipeline
 The ESP32, equipped with our sensors, sends real-time data to AWS IoT Core using MQTT protocol. This raw data undergoes transformation first using AWS Lambda functions for pre-processing tasks, distribution of inputs into different databases such as AWS S3 and AWS DynamoDB, and posture and movement prediction using an ML pre-trained model stored in a Lambda function. The processed data is then ingested as an input of the sciatica pain predictive model using AWS SageMaker. The outputs are then sent to our mobile application for display.
 
-![](/projects/SciaTech/pipeline.png)
+![](/personal-website/projects/SciaTech/pipeline.png)
 
 ## 3. Output Data
 The output of this project is:
@@ -72,6 +72,6 @@ The output of this project is:
 - Notifications: Receive reminders and notifications to help you manage your daily routines and avoid pain triggers.
 - Profile Management: Update and modify your profile information as needed.
 
-![](/projects/SciaTech/product1.jpg)
-![](/projects/SciaTech/product2.jpg)
+![](/personal-website/projects/SciaTech/product1.jpg)
+![](/personal-website/projects/SciaTech/product2.jpg)
 

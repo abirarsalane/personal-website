@@ -69,4 +69,4 @@ Orange Summer Challenge is a prestigious, highly selective (**1.7% acceptance ra
 Through these experiences, I have developed a comprehensive skill set in cloud computing, data science, machine learning, and agile methodologies. My ability to apply these skills to real-world challenges demonstrates my technical mastery and my commitment to delivering high-impact solutions.
 
 
-![](/experience/ODC/picture.jpeg#center)
+![](/personal-website/experience/ODC/picture.jpeg#center)

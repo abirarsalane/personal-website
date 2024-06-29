@@ -6,7 +6,7 @@ draft: false
 tags: ["LLM", "AI", "GenAI", "Hugging Face", "RAG", "Fine-tuning", "Python"]
 weight: 100
 cover:
-    image: "/projects/loading/loading.png"
+    image: "/personal-website/projects/loading/loading.png"
 ---
 # Advanced Text Analysis and Generation Project
 

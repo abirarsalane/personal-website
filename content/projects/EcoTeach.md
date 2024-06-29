@@ -6,7 +6,7 @@ draft: false
 tags: ["LLM", "AI", "GenAI", "Hugging Face", "RAG", "Fine-tuning", "Python"]
 weight: 101
 cover:
-    image: "/blog/MoroccoAI-GenAI-hackathon/EcoTeach_image.jpg"
+    image: "/personal-website/blog/MoroccoAI-GenAI-hackathon/EcoTeach_image.jpg"
 ---
 
 

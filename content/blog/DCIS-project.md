@@ -6,7 +6,7 @@ draft: false
 tags: ["DCIS", "AI", "Scraping", "Deep Learning", "Python", "Transformers", "Data Augmentation", "Medical Imaging"]
 weight: 106
 cover:
-    image: "/blog/DCIS/img6.png"
+    image: "/personal-website/blog/DCIS/img6.png"
 ---
 
 
@@ -16,7 +16,7 @@ cover:
 ## Introduction
 Ductal Carcinoma in Situ (DCIS) is a non-invasive, early stage of breast cancer where abnormal cells are found in the milk ducts of the breast. Early detection and treatment are crucial for preventing it from becoming invasive. Utilizing advanced AI technologies, this project aims to revolutionize the detection and diagnosis process, ensuring timely and accurate medical interventions.
 
-![](/blog/DCIS/img1.png)
+![](/personal-website/blog/DCIS/img1.png)
 
 ## Objectives
 - **Optimization of Medical Resources**: AI-driven automation for efficient resource utilization.
@@ -28,22 +28,22 @@ Ductal Carcinoma in Situ (DCIS) is a non-invasive, early stage of breast cancer 
 - **Early Detection**: AI algorithms identify DCIS at its earliest stages.
 - **Treatment Response**: Monitoring and improving responses to treatments through AI analytics.
 
-![](/blog/DCIS/img2.png)
+![](/personal-website/blog/DCIS/img2.png)
 
 # Project Context
 
 ## Importance of Early Detection
 Early detection allows for prompt intervention, potentially preventing the progression of DCIS to invasive breast cancer. Accurate detection reduces unnecessary aggressive treatments, promoting a targeted and less invasive approach. AI plays a pivotal role in enhancing detection accuracy and efficiency, which is critical for improving patient outcomes.
 
-![](/blog/DCIS/img3.png)
+![](/personal-website/blog/DCIS/img3.png)
 
 ## Goals
 - **Improving Survival Rates**: Early detection improves overall survival rates.
 - **Reducing Treatment Intensity**: Accurate detection reduces the need for aggressive treatments.
 - **Empowering Patients**: Providing early information enables informed decision-making.
 
-![](/blog/DCIS/img4.png)
-![](/blog/DCIS/img5.png)
+![](/personal-website/blog/DCIS/img4.png)
+![](/personal-website/blog/DCIS/img5.png)
 
 # Project Approach
 
@@ -92,8 +92,8 @@ Early detection allows for prompt intervention, potentially preventing the progr
    - **Generative Adversarial Networks (GANs)**: Used for generating high-quality synthetic medical images, GANs can augment training datasets, thus enhancing the robustness of the model.
    - **Variational Autoencoders (VAEs)**: Employed for anomaly detection and image reconstruction, VAEs help in learning efficient latent space representations of the input data.
 
-![](/blog/DCIS/img7.png)
-![](/blog/DCIS/img8.png)
+![](/personal-website/blog/DCIS/img7.png)
+![](/personal-website/blog/DCIS/img8.png)
 
 ## Libraries and Tools
 
@@ -115,10 +115,10 @@ Early detection allows for prompt intervention, potentially preventing the progr
 ### Data Augmentation Libraries
 - **Albumentations**: This library provides a fast and flexible set of tools for augmenting images, which is crucial for training robust deep learning models.
 
-![](/blog/DCIS/img10.png)
-![](/blog/DCIS/img11.png)
-![](/blog/DCIS/img12.png)
-![](/blog/DCIS/img13.png)
+![](/personal-website/blog/DCIS/img10.png)
+![](/personal-website/blog/DCIS/img11.png)
+![](/personal-website/blog/DCIS/img12.png)
+![](/personal-website/blog/DCIS/img13.png)
 
 # Metrics
 
@@ -129,7 +129,7 @@ Early detection allows for prompt intervention, potentially preventing the progr
 - **F1 Score**: The harmonic mean of precision and recall, providing a balance between the two metrics.
 - **Dice Coefficient**: Used primarily in image segmentation tasks, this metric measures the overlap between predicted and actual segmentation masks, critical for evaluating the performance of medical image analysis models.
 
-![](/blog/DCIS/img14.png)
+![](/personal-website/blog/DCIS/img14.png)
 
 # Data Governance
 

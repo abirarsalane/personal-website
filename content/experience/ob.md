@@ -199,4 +199,4 @@ As a Data Scientist in the Innovation Stream at Orange Business, I was integral 
 
 Through these projects, I developed a comprehensive skill set in data science, machine learning, cloud computing, and cybersecurity. My ability to apply these skills to real-world challenges demonstrates my technical mastery and commitment to delivering high-impact solutions.
 
-![](/experience/OB/ob.jpg#center)
+![](/personal-website/experience/OB/ob.jpg#center)

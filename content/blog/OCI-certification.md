@@ -6,7 +6,7 @@ draft: false
 tags: ["OCI", "Oracle", "Generative AI", "Professional", "Certification"]
 weight: 102
 cover:
-    image: "/blog/OCI/OCI2024GAIOCP.png"
+    image: "/personal-website/blog/OCI/OCI2024GAIOCP.png"
 ---
 
 # OCI Generative AI Professional Certification
