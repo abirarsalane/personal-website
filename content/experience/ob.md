@@ -1,5 +1,5 @@
 ---
-title: "Data Scientist Intern"
+title: "Data Scientist"
 description: "Orange Business"
 dateString: Feb 2024 - Present
 draft: false
