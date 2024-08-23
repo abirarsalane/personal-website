@@ -53,7 +53,7 @@ params:
   profileMode:
     enabled: true
     title: "Abir Arsalane"
-    subtitle: An alumna of Mathematics and Informatics Olympiads, trained by experts from Google, Amazon and Hugging Face, I am a final-year Big Data & AI Engineering student currently interning as a data scientist at the Innovation Stream of Orange Business. My focus is on solving complex problems creatively and innovatively through AI. My current hobby is experimenting with LLMs, diving deep into GenAI, and exploring what it takes to reach its full potential. I am keen to collaborate and create impactful solutions in the world of data and AI. Discover some of my latest work, and let's connect to shape the future!
+    subtitle: An alumna of Mathematics and Informatics Olympiads, trained by experts from Google, Amazon and Hugging Face, I have graduated with a Masters degree in Big Data & AI Engineering and am currently working as a data scientist at the Innovation Stream of Orange Business. My focus is on solving complex problems creatively and innovatively through AI. My current hobby is experimenting with LLMs, diving deep into GenAI, and exploring what it takes to reach its full potential. I am keen to collaborate and create impactful solutions in the world of data and AI. Discover some of my latest work, and let's connect to shape the future!
     imageUrl: "home/photo.jpg"
     imageWidth: 220
     imageHeight: 220
